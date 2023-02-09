@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/khaledarafat0717/pipelines-java/_apis/build/status/kbzacher.pipelines-java?branchName=main)](https://dev.azure.com/khaledarafat0717/pipelines-java/_build/latest?definitionId=5&branchName=main)
 
 # Contributing
 
